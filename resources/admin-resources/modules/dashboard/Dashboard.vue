@@ -181,9 +181,9 @@ onMounted(async () => {
                         <div class="my-2">
                             <span class="h3">{{
                                 report_data.today_incomes
-                            }}</span>
+                            }} XAF</span>
                             <br />
-                            <span class="text-muted fs-6">Today Incomes</span>
+                            <span class="text-muted fs-6">Today Income</span>
                         </div>
                     </div>
                 </div>
@@ -202,9 +202,9 @@ onMounted(async () => {
                         <div class="my-2">
                             <span class="h3">{{
                                 report_data.total_incomes
-                            }}</span>
+                            }} XAF</span>
                             <br />
-                            <span>Total Incomes</span>
+                            <span>Total Income</span>
                         </div>
                     </div>
                 </div>
@@ -219,7 +219,7 @@ onMounted(async () => {
                         <div class="my-2">
                             <span class="h3">{{
                                 report_data.total_expenses
-                            }}</span>
+                            }} XAF</span>
                             <br />
                             <span>Total Expenses</span>
                         </div>
@@ -240,9 +240,9 @@ onMounted(async () => {
                         <div class="my-2">
                             <span class="h3">{{
                                 report_data.net_incomes
-                            }}</span>
+                            }} XAF</span>
                             <br />
-                            <span>Net Incomes</span>
+                            <span>Net Income</span>
                         </div>
                     </div>
                 </div>

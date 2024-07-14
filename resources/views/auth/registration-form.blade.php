@@ -23,8 +23,8 @@
                     <div class="card pt-4">
                         <div class="card-body">
                             <div class="text-center mb-5">
-                                <img src="{{ asset('img/finnaf-logo.png') }}" class='img-fluid mb-4'
-                                    style="max-width:200px">
+                                {{-- <img src="{{ asset('img/finnaf-logo.png') }}" class='img-fluid mb-4'
+                                    style="max-width:200px"> --}}
                                 <h3>Sign Up</h3>
                                 <p>Please fill the form to register.</p>
                             </div>
